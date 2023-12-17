@@ -1,4 +1,4 @@
-namespace TrailerWeb.Models
+namespace Trailer.Models
 {
     public class ErrorViewModel
     {
